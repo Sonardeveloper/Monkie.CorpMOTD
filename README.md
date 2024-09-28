@@ -1,0 +1,2 @@
+# Monkie.CorpMOTD
+Monkie.CorpMOTD
